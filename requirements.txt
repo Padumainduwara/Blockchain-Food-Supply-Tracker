@@ -1,0 +1,5 @@
+streamlit
+hashlib
+pandas
+numpy
+plotly
